@@ -1,5 +1,9 @@
 # Handwritten Digit Classification
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+![Python 3.10 | 3.11](https://img.shields.io/badge/python-3.10%20%7C%203.11-blue)
+![scikit-learn](https://img.shields.io/badge/ML-scikit--learn-F7931E)
+
 Recognize digits 0-9 from real 8x8 grayscale images using a transparent logistic-classification pipeline.
 
 شرح بالمصري في [EXPLAIN_AR.md](EXPLAIN_AR.md).
